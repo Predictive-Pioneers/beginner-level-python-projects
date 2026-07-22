@@ -8,7 +8,7 @@ Each project lives in its own folder with its own code, its own `requirements.tx
 
 | # | Project |
 |---|---------|
-| 01 | [Brand Name Generator](./01-brand-name-generator) |
+| 01 | [Brand Name Generator](./01_Brand_name_generator) |
 
 More projects will be added here over time.
 
